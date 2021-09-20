@@ -34,3 +34,25 @@
 .CHASUBLE{
     color:darkolivegreen;
 }
+
+table {
+    border: 1px solid black;
+    width: 70%;
+  }
+
+th {
+    border: 1px solid black;
+    color:darkgreen;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    color: blueviolet;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: wheat;
+}
+

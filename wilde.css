@@ -1,0 +1,36 @@
+.speech{
+    font-family: 'Arial';
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction{
+    font-family: 'Arial';
+    font-size: 16px;
+    color: black;
+    background-color: crimson;
+
+}
+
+.name{  
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction:hover{
+    background-color: yellowgreen;
+    color: lightpink;
+
+}
+
+.CECILY{
+    color: lightsteelblue;
+}
+
+.PRISM{
+    color: peachpuff;
+}
+
+.CHASUBLE{
+    color:darkolivegreen;
+}

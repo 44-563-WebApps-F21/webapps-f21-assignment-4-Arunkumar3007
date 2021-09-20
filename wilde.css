@@ -55,3 +55,8 @@ td {
 tr:nth-child(even) {
     background-color: wheat;
 }
+
+.PRISM:hover{
+    text-shadow: 2px 2px 4px chocolate;
+    border: solid 4px darkgreen;
+}
